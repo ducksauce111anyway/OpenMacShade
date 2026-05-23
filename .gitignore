@@ -1,0 +1,11 @@
+.DS_Store
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Local build artifacts and release bundles
+build/
+build_already/
+*.app
+*.app.zip
