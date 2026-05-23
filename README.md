@@ -1,8 +1,11 @@
-# ScreenShade
+# OpenMacScreenShade
 
 A tiny macOS menu bar app that dims your screen with a click-through black overlay.
 The app is located at right top menu.
+
+
 ![appshot](./screenshot.png)
+
 
 No hardware brightness control. No DDC/CI. No gamma changes. No private APIs. No permissions. No network access.
 
